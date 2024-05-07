@@ -1,1 +1,1 @@
-# Transdiagnostic connectome-based mapping of autism symptoms in children with autism spectrum disorder and/or attention-deficit/hyperactivity disorder
+# Connectome-based symptom mapping and in silico related gene expression in children with autism and/or attention-deficit/hyperactivity disorder
